@@ -8,6 +8,7 @@ import jakarta.validation.constraints.Size;
 
 import lombok.Data;
 
+
 /**
  * ユーザ情報 リクエストデータ
  */
